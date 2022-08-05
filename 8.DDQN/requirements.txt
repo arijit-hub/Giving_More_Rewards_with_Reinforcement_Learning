@@ -1,0 +1,7 @@
+torch
+gym
+ale-py
+atari-py
+matplotlib
+pyglet
+tqdm
